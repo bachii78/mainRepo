@@ -1,0 +1,1 @@
+{"atom-workspace":{"ctrl-f5":"dbg:custom-debug","f5":"dbg:pause-continue","f9":"dbg:toggle-breakpoint","ctrl-shift-f9":"dbg:clear-breakpoints","f10":"dbg:step-over","f11":"dbg:step-in","shift-f11":"dbg:step-out","shift-f5":"dbg:stop"},".debug-custom-panel":{"enter":"dbg:custom-confirm"}}

@@ -1,0 +1,57 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball",
+  "_id": "atom-ide-debugger-native-gdb@0.7.3",
+  "_inBundle": false,
+  "_integrity": "sha512-HGiS7W9QfXMHWRBmymE4Le9aZugohl8ME+/viGZpLnkZjg9MTmYCJbILi0m7wgfKTw7N+xRO0+j05EsvjN8pXg==",
+  "_location": "/atom-ide-debugger-native-gdb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball",
+  "_shasum": "c010b34c30d3146e4fbf6d24cf385eed67a95047",
+  "_spec": "https://www.atom.io/api/packages/atom-ide-debugger-native-gdb/versions/0.7.3/tarball",
+  "_where": "/tmp/apm-install-dir-2022101-4269-6dsczq.ft2kn",
+  "author": {
+    "name": "NEEDS OWNER"
+  },
+  "bugs": {
+    "url": "https://github.com/facebook-atom/atom-ide-debugger-native-gdb/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "atom-ide-debugger-native-gdb": "0.7.2"
+  },
+  "deprecated": false,
+  "description": "Native GDB Debugger for Atom IDE.",
+  "engines": {
+    "atom": ">= 1.25.0"
+  },
+  "homepage": "https://nuclide.io/",
+  "license": "BSD-3-Clause",
+  "name": "atom-ide-debugger-native-gdb",
+  "package-deps": [
+    "atom-ide-ui"
+  ],
+  "providedServices": {
+    "debugger.provider": {
+      "description": "Debugger engine",
+      "versions": {
+        "0.0.0": "createDebuggerProvider"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facebook-atom/atom-ide-debugger-native-gdb.git"
+  },
+  "version": "0.7.3"
+}

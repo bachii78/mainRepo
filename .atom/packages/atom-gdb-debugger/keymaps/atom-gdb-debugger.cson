@@ -1,0 +1,18 @@
+# Keybindings require three things to be fully defined: A selector that is
+# matched against the focused element, the keystroke and the command to
+# execute.
+#
+# Below is a basic keybinding which registers on all platforms by applying to
+# the root workspace element.
+
+# For more detailed documentation see
+# https://atom.io/docs/latest/behind-atom-keymaps-in-depth
+'atom-workspace':
+  'f12': 'atom-gdb-debugger:connect'
+  'f5': 'atom-gdb-debugger:continue'
+  'shift-f5': 'atom-gdb-debugger:interrupt'
+  'f10': 'atom-gdb-debugger:next'
+  'f11': 'atom-gdb-debugger:step'
+  'shift-f11': 'atom-gdb-debugger:finish'
+'atom-text-editor':
+  'f9': 'atom-gdb-debugger:toggle-breakpoint'

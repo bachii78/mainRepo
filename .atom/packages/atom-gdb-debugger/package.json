@@ -1,0 +1,68 @@
+{
+  "_from": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball",
+  "_id": "atom-gdb-debugger@0.2.2",
+  "_inBundle": false,
+  "_integrity": "sha512-vWk/htR/vP32pSyAWPXUVsDgjkvHdITWnYkXEJhVkQ1PTiR4V2PxycsHSVeNpHV8jOvPshXSfIARzxE1MI4ooQ==",
+  "_location": "/atom-gdb-debugger",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball",
+  "_shasum": "fd8b4861edb3dacb29889ea6a1f960b84f3c6f9c",
+  "_spec": "https://www.atom.io/api/packages/atom-gdb-debugger/versions/0.2.2/tarball",
+  "_where": "/tmp/apm-install-dir-2022101-2600-1v62csd.vewzi",
+  "activationCommands": {
+    "atom-workspace": [
+      "atom-gdb-debugger:connect",
+      "atom-gdb-debugger:configure"
+    ]
+  },
+  "bugs": {
+    "url": "https://github.com/gsmcmullin/atom-gdb-debugger/issues"
+  },
+  "bundleDependencies": false,
+  "consumedServices": {
+    "status-bar": {
+      "versions": {
+        "^1.0.0": "consumeStatusBar"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-space-pen-views": "~2.2.0",
+    "event-kit": "^2.2.0",
+    "node-gdb": "0.0.5",
+    "underscore": "^1.8.3"
+  },
+  "deprecated": false,
+  "description": "GDB integration for Atom",
+  "engines": {
+    "atom": ">=1.12.0 <2.0.0"
+  },
+  "homepage": "https://github.com/gsmcmullin/atom-gdb-debugger#readme",
+  "keywords": [
+    "gdb",
+    "debug",
+    "debugger",
+    "c",
+    "c++",
+    "embedded"
+  ],
+  "license": "GPL-3.0+",
+  "main": "./lib/atom-gdb-debugger",
+  "name": "atom-gdb-debugger",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsmcmullin/atom-gdb-debugger.git"
+  },
+  "version": "0.2.2"
+}

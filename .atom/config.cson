@@ -1,0 +1,16 @@
+"*":
+  core:
+    disabledPackages: [
+      "atom-ide-debugger-native-gdb"
+      "atom-gdb-debugger"
+    ]
+    packagesWithKeymapsDisabled: []
+    telemetryConsent: "no"
+  editor:
+    tabLength: 5
+  "exception-reporting":
+    userId: "34a39621-b4c1-443d-96d6-f3dd0d7b22b5"
+  "gcc-make-run":
+    cflags: "-g"
+    ext: "out"
+    terminal: " /bin/xfce4-terminal -T $title -e"

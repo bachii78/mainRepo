@@ -1,0 +1,122 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/learn/.Xauthority
+/etc/X11/Xsession.d/30x11-common_xresources: line 16: has_option: command not found
+/etc/X11/Xsession.d/75dbus_dbus-launch: line 9: has_option: command not found
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+/etc/X11/Xsession.d/90x11-common_ssh-agent: line 9: has_option: command not found
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xfce:/etc/xdg
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting GTK_IM_MODULE=ibus
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_ADDRESS=ru_RU.UTF-8
+dbus-update-activation-environment: setting LC_NAME=ru_RU.UTF-8
+dbus-update-activation-environment: setting XMODIFIERS=@im=ibus
+dbus-update-activation-environment: setting DESKTOP_SESSION=xfce
+dbus-update-activation-environment: setting LC_MONETARY=ru_RU.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=gail:atk-bridge
+dbus-update-activation-environment: setting PWD=/home/learn
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xfce
+dbus-update-activation-environment: setting LOGNAME=learn
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting XAUTHORITY=/home/learn/.Xauthority
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/learn
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting HOME=/home/learn
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting CLUTTER_IM_MODULE=ibus
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting LC_IDENTIFICATION=ru_RU.UTF-8
+dbus-update-activation-environment: setting USER=learn
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LC_TELEPHONE=ru_RU.UTF-8
+dbus-update-activation-environment: setting QT_IM_MODULE=ibus
+dbus-update-activation-environment: setting LC_MEASUREMENT=ru_RU.UTF-8
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting GTK3_MODULES=xapp-gtk3-module
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/home/learn/.local/share/flatpak/exports/share:/var/lib/flatpak/exports/share:/usr/local/share:/usr/share
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting GDMSESSION=xfce
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting LC_NUMERIC=ru_RU.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+/usr/bin/iceauth:  creating new authority file /run/user/1000/ICEauthority
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfwm4:1416): xfwm4-WARNING **: 16:34:27.622: Unsupported GL renderer (llvmpipe (LLVM 13.0.1, 256 bits)).
+
+** (xiccd:1525): WARNING **: 16:34:32.223: EDID is empty
+vmware-user: could not open /proc/fs/vmblock/dev
+Error: /usr/bin/vmtoolsd must be run inside a virtual machine on a VMware hypervisor product.
+
+** (xfce4-power-manager:1560): WARNING **: 16:34:33.544: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.freedesktop.PowerManagement': no such name
+
+
+** (xfce4-power-manager:1560): WARNING **: 16:34:33.551: Failed to get name owner: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Could not get owner of name 'org.xfce.PowerManager': no such name
+
+
+(polkit-gnome-authentication-agent-1:1605): GLib-CRITICAL **: 16:34:33.870: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1605): polkit-gnome-1-WARNING **: 16:34:33.881: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+
+(xfce4-power-manager:1560): GLib-GObject-WARNING **: 16:34:33.993: ../../../gobject/gsignal.c:2613: signal 'Changed' is invalid for instance '0x562d3a33f200' of type 'GDBusProxy'
+
+(xfce4-power-manager:1560): xfce4-power-manager-WARNING **: 16:34:34.133: could not map keysym 1008ffa8 to keycode
+
+
+** (xfce4-power-manager:1560): WARNING **: 16:34:34.171: No outputs have backlight property
+
+(xfce4-power-manager:1560): xfce4-power-manager-WARNING **: 16:34:34.202: Failed to get keyboard max brightness level : GDBus.Error:org.freedesktop.DBus.Error.UnknownMethod: Object does not exist at path “/org/freedesktop/UPower/KbdBacklight”
+
+** (wrapper-2.0:1494): WARNING **: 16:34:35.911: No outputs have backlight property
+
+(wrapper-2.0:1495): GLib-GIO-CRITICAL **: 16:34:36.016: g_file_new_for_path: assertion 'path != NULL' failed
+
+(wrapper-2.0:1495): GLib-GIO-CRITICAL **: 16:34:36.017: g_file_monitor_file: assertion 'G_IS_FILE (file)' failed
+
+(wrapper-2.0:1495): GLib-GObject-WARNING **: 16:34:36.017: invalid (NULL) pointer instance
+
+(wrapper-2.0:1495): GLib-GObject-CRITICAL **: 16:34:36.017: g_signal_connect_data: assertion 'G_TYPE_CHECK_INSTANCE (instance)' failed
+
+(wrapper-2.0:1495): Gtk-WARNING **: 16:34:36.017: Attempting to add a widget with type GtkToggleButton to a container of type XfcePanelPlugin, but the widget is already inside a container of type XfcePanelPlugin, please remove the widget from its existing container first.
+
+** (wrapper-2.0:1493): WARNING **: 16:34:36.219: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:1493): pulseaudio-plugin-WARNING **: 16:34:36.219: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+(tray.py:1507): Gdk-CRITICAL **: 16:34:37.002: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(wrapper-2.0:1493): Gtk-WARNING **: 16:34:37.300: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:1495): Gtk-WARNING **: 16:34:37.380: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+(wrapper-2.0:1494): Gtk-WARNING **: 16:34:37.655: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PowerManagerButton)
+blueman-applet 16.34.37 WARNING  PluginManager:151 __load_plugin: Not loading DhcpClient because its conflict has higher priority
+blueman-applet 16.34.37 WARNING  PluginManager:151 __load_plugin: Not loading PPPSupport because its conflict has higher priority
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1245: DeprecationWarning: Gdk.threads_init is deprecated
+  Gdk.threads_init()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1393: DeprecationWarning: Gtk.ImageMenuItem.set_image is deprecated
+  menuItem3.set_image(image)
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:1626: DeprecationWarning: Gdk.threads_enter is deprecated
+  Gdk.threads_enter()
+/usr/lib/linuxmint/mintUpdate/mintUpdate.py:738: DeprecationWarning: Gdk.threads_leave is deprecated
+  Gdk.threads_leave()
+blueman-applet 16.34.49 WARNING  DiscvManager:119 update_menuitems: warning: Adapter is None
+
+(xfdesktop:1489): GLib-CRITICAL **: 16:34:55.619: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/learn/[Invalid UTF-8]" does not exist. It won't be used when spawning "xfce4-terminal".
+** (xiccd:1525): WARNING **: 16:37:58.201: EDID is empty
+
+** (xiccd:1525): WARNING **: 16:37:58.277: EDID is empty
+
+(xfdesktop:1489): GLib-CRITICAL **: 21:44:31.732: g_variant_new_string: assertion 'string != NULL' failed
+Working directory "/home/learn/[Invalid UTF-8]" does not exist. It won't be used when spawning "xfce4-terminal".

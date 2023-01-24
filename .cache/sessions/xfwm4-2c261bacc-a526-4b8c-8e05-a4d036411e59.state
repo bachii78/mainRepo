@@ -1,0 +1,2700 @@
+[CLIENT] 0x5601fd7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f76
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fd3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fcf
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fcb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fc7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fc3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fbf
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fbb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fb7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fb3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601faf
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fab
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fa7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601fa3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f2e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f9f
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f9b
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f97
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f93
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f8f
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f8b
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f87
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f82
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f7e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f7a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f72
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f6e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f6a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f66
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f62
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f5e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f5a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f56
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f52
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f4e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f4a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f46
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f42
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f3e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f3a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f36
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f32
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f2a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f26
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f22
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f1e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f1a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f16
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f12
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f0d
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f09
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f05
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601f01
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601efd
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ef9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ef1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ef5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601eed
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ee9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ee5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ee1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601edd
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ed9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ed5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ed1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ecd
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ec9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ec5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ec1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ebd
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601eb9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601eb5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601eb1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ead
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ea9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ea5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ea1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e9c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e98
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e94
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e90
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e8c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e88
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e84
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e80
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e7c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e78
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e74
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e70
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e6c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e68
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e64
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e60
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e5c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e58
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e54
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e4c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e50
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e48
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e44
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e40
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e3c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e34
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e38
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e30
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e2c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e27
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e23
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e1f
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e1b
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e17
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e13
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e0f
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e0b
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e07
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5e00008
+  [CLIENT_LEADER] 0x5e00001
+  [RES_NAME] helper-dialog
+  [RES_CLASS] Helper-dialog
+  [WM_NAME] Warning
+  [WM_COMMAND] (1) "helper-dialog"
+  [GEOMETRY] (657,369,606,237)
+  [GEOMETRY-MAXIMIZED] (657,369,606,237)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601e03
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dff
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dfb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5c00008
+  [CLIENT_LEADER] 0x5c00001
+  [RES_NAME] helper-dialog
+  [RES_CLASS] Helper-dialog
+  [WM_NAME] Warning
+  [WM_COMMAND] (1) "helper-dialog"
+  [GEOMETRY] (657,369,606,237)
+  [GEOMETRY-MAXIMIZED] (657,369,606,237)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601df7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601df3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601def
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601deb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601de7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601de3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ddf
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ddb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dd7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dd3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dcf
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dcb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dc7
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dc3
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dbf
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dbb
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601db6
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601db2
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601dae
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601daa
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601da6
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601da2
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d9e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d9a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d96
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d92
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d8e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d8a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d86
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d82
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d7e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d7a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d76
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d72
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d6e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d6a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d66
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d62
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d5e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d5a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d56
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d52
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d4e
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d4a
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d46
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d41
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d3d
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d39
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d35
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d31
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x500130b
+  [CLIENT_ID] 2835d36b2-8f73-49ec-a458-427ce67475d2
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] xfce4-terminal-1667331999-1803842704
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - learn@learn-VirtualBox: ~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (633,269,654,438)
+  [GEOMETRY-MAXIMIZED] (633,269,654,438)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x5601d2d
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d29
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d25
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d21
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d1d
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d19
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d15
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d11
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d0d
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d09
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d05
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601d01
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cfd
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cf9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cf5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cf1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ced
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ce9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ce5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ce1
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cdd
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cd9
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cd5
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cd0
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ccc
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cc8
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cc4
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cc0
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cbc
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cb8
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cb4
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cb0
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c74
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601cac
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ca8
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ca4
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601ca0
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c9c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c98
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c94
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c90
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c8c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c88
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c84
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c80
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c7c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c78
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c70
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c6c
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x5601c68
+  [CLIENT_LEADER] 0x5600001
+  [WINDOW_ROLE] GtkFileChooserDialog
+  [RES_NAME] atom
+  [RES_CLASS] Atom
+  [WM_NAME] Select the binary to debug
+  [WM_COMMAND] (1) "atom"
+  [GEOMETRY] (372,27,1176,921)
+  [GEOMETRY-MAXIMIZED] (372,27,1176,921)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x50012bd
+  [CLIENT_ID] 2835d36b2-8f73-49ec-a458-427ce67475d2
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] xfce4-terminal-1667331485-3847045087
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - learn@learn-VirtualBox: ~/projects/test
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (633,269,654,438)
+  [GEOMETRY-MAXIMIZED] (633,269,654,438)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10000
+[CLIENT] 0x4a00025
+  [CLIENT_LEADER] 0x4a00001
+  [RES_NAME] mintwelcome.py
+  [RES_CLASS] Mintwelcome.py
+  [WM_NAME] Welcome
+  [WM_COMMAND] (1) "mintwelcome.py"
+  [GEOMETRY] (534,173,852,595)
+  [GEOMETRY-MAXIMIZED] (534,173,852,595)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x80
+[CLIENT] 0x5001018
+  [CLIENT_ID] 2835d36b2-8f73-49ec-a458-427ce67475d2
+  [CLIENT_LEADER] 0x5000001
+  [WINDOW_ROLE] xfce4-terminal-1667330673-3251222901
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - learn@learn-VirtualBox: ~/Downloads
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (70,213,654,438)
+  [GEOMETRY-MAXIMIZED] (70,213,654,438)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10080

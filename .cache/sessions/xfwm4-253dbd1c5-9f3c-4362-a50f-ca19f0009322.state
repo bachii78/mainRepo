@@ -1,0 +1,24 @@
+[CLIENT] 0x4a00003
+  [CLIENT_ID] 250ef6184-e506-4407-bed6-919f7dd190b1
+  [CLIENT_LEADER] 0x4a00001
+  [WINDOW_ROLE] xfce4-terminal-1667327984-2856427985
+  [RES_NAME] xfce4-terminal
+  [RES_CLASS] Xfce4-terminal
+  [WM_NAME] Terminal - learn@learn-VirtualBox: ~
+  [WM_COMMAND] (1) "xfce4-terminal"
+  [GEOMETRY] (0,36,1920,906)
+  [GEOMETRY-MAXIMIZED] (848,281,654,438)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x10300
+[CLIENT] 0x4200025
+  [CLIENT_LEADER] 0x4200001
+  [RES_NAME] mintwelcome.py
+  [RES_CLASS] Mintwelcome.py
+  [WM_NAME] Welcome
+  [WM_COMMAND] (1) "mintwelcome.py"
+  [GEOMETRY] (557,174,852,595)
+  [GEOMETRY-MAXIMIZED] (557,174,852,595)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x80

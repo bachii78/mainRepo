@@ -1,0 +1,83 @@
+{
+  "_from": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball",
+  "_id": "dbg-gdb@1.7.8",
+  "_inBundle": false,
+  "_integrity": "sha512-5XP74UGkJH3sCVr8cx/pUX1XAvnABUJB96Uh2wquciyKXhTc6wCFio1GlnRjMAKfD78YDyBK9DrZFI4+p1Z0NQ==",
+  "_location": "/dbg-gdb",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "remote",
+    "raw": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball",
+    "rawSpec": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball",
+    "saveSpec": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball",
+    "fetchSpec": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball",
+  "_shasum": "b665b6985f31b3b427cd15a3a7bec2a9a082421b",
+  "_spec": "https://www.atom.io/api/packages/dbg-gdb/versions/1.7.8/tarball",
+  "_where": "/tmp/apm-install-dir-2022101-7351-12onmi9.vifo",
+  "bugs": {
+    "url": "https://github.com/31i73/atom-dbg-gdb/issues"
+  },
+  "bundleDependencies": false,
+  "consumedServices": {
+    "dbg": {
+      "versions": {
+        "^1.0.0": "consumeDbg"
+      }
+    },
+    "output-panel": {
+      "versions": {
+        "^1.0.0": "consumeOutputPanel",
+        "^0.1.0": "consumeOutputPanel"
+      }
+    }
+  },
+  "dependencies": {
+    "atom-package-deps": "^4.0.1"
+  },
+  "deprecated": false,
+  "description": "An interactive GDB debugger for Atom",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "homepage": "https://github.com/31i73/atom-dbg-gdb#readme",
+  "keywords": [
+    "gdb",
+    "debugger",
+    "C",
+    "C++",
+    "D",
+    "Go",
+    "Objective-C",
+    "Fortran",
+    "Pascal",
+    "Rust",
+    "assembly",
+    "Ada"
+  ],
+  "license": "MIT",
+  "main": "./lib/main",
+  "name": "dbg-gdb",
+  "package-deps": [
+    "dbg",
+    "output-panel"
+  ],
+  "providedServices": {
+    "dbgProvider": {
+      "description": "Provides a dbg gdb debugger",
+      "versions": {
+        "1.1.0": "provideDbgProvider"
+      }
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/31i73/atom-dbg-gdb.git"
+  },
+  "version": "1.7.8"
+}

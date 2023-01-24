@@ -1,0 +1,22 @@
+[CLIENT] 0x4000007
+  [CLIENT_LEADER] 0x4000001
+  [RES_NAME] app.py
+  [RES_CLASS] App.py
+  [WM_NAME] System Reports
+  [WM_COMMAND] (1) "app.py"
+  [GEOMETRY] (-45,62,1024,600)
+  [GEOMETRY-MAXIMIZED] (-45,62,1024,600)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0
+[CLIENT] 0x3a00025
+  [CLIENT_LEADER] 0x3a00001
+  [RES_NAME] mintwelcome.py
+  [RES_CLASS] Mintwelcome.py
+  [WM_NAME] Welcome
+  [WM_COMMAND] (1) "mintwelcome.py"
+  [GEOMETRY] (-26,0,852,595)
+  [GEOMETRY-MAXIMIZED] (-26,0,852,595)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x80
